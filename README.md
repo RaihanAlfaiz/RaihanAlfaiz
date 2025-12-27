@@ -1,8 +1,16 @@
 # 💫 About Me:
-Hi there! I'm Raihan Alfaiz, a passionate Fullstack Developer with solid experience in building robust, scalable, and elegant web applications using Laravel, JavaScript, Tailwind CSS, and Bootstrap.
-Currently focused on creating clean and responsive user interfaces, building RESTful APIs, and integrating backend logic seamlessly into modern frontend frameworks. I'm also exploring cloud deployment and DevOps practices to level up my fullstack journey.
+I'm a passionate Fullstack Developer with solid experience in building robust, scalable, and elegant web applications.
 
-I believe in continuous learning, writing clean code, and bringing ideas to life through technology.
+My core stack includes Laravel, JavaScript, Tailwind CSS, and Bootstrap, with a strong focus on clean architecture, maintainable code, and responsive UI/UX.
+
+On the backend side, I also work with Node.js and TypeScript to build RESTful APIs and modern server-side applications.
+For the frontend, I’m comfortable using React and Next.js to create fast, interactive, and scalable user interfaces.
+
+Additionally, I have basic experience with Flutter for cross-platform mobile development and continue to explore its ecosystem.
+
+Currently, I’m expanding my skills in cloud deployment and DevOps practices to strengthen my end-to-end fullstack capabilities.
+
+I believe in continuous learning, clean code, and turning ideas into real-world solutions through technology 🚀
 
 
 ## 🌐 Socials:
